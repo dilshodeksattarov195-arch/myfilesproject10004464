@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdave",
+        "uuid": 44760528,
+        "checksum": "ja6rdb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
